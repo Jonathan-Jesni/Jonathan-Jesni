@@ -43,12 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-black-one-53.vercel.app/api?username=Jonathan-Jesni&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 
 * LinkedIn: https://www.linkedin.com/in/jonathan-jesni-b0184a210/
