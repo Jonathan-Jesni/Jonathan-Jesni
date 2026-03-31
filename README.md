@@ -62,30 +62,17 @@
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Jonathan-Jesni/WebGuardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=WebGuardian&theme=tokyonight#gh-dark-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=WebGuardian#gh-light-mode-only"/>
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Jonathan-Jesni/synthetic-data-object-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection&theme=tokyonight#gh-dark-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection#gh-light-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection&theme=tokyonight&cache_seconds=1800" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/Jonathan-Jesni/pdf_converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter&theme=tokyonight#gh-dark-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter#gh-light-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/Ludex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight#gh-dark-mode-only"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex#gh-light-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight&cache_seconds=1800" />
   </a>
 </p>
 
