@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Cybersecurity+Enthusiast;Machine+Learning+Developer;Building+Real+World+Projects;Always+Learning+Something+New" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jonathan-Jesni&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🚀 About Me
