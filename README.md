@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Jonathan%20Jesni&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
 
 <p align="center">
@@ -18,40 +22,40 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-2C3E50?style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ WebGuardian – AI-Powered Phishing Detection
+<p align="center">
+  <a href="https://github.com/Jonathan-Jesni/WebGuardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=WebGuardian&theme=tokyonight#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=WebGuardian#gh-light-mode-only"/>
+  </a>
+</p>
 
-* Detects phishing attacks using machine learning
-* Designed for real-world web security scenarios
-* Intelligent detection + practical deployment
+<p align="center">
+  <a href="https://github.com/Jonathan-Jesni/synthetic-data-object-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection&theme=tokyonight#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection#gh-light-mode-only"/>
+  </a>
+</p>
 
-### 👁️ Synthetic Data Object Detection
+<p align="center">
+  <a href="https://github.com/Jonathan-Jesni/pdf_converter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter&theme=tokyonight#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter#gh-light-mode-only"/>
+  </a>
+</p>
 
-* Built using **YOLOv8 + Blender**
-* Trained on synthetic datasets
-* Detects objects like tables, bottles, and balls
-
-### 📄 PDF Converter
-
-* Deterministic **PDF → Word converter (no OCR)**
-* Handles structured forms with smart fallbacks
-
-### 🎮 Ludex – ML Game Recommender
-
-* Machine learning-based recommendation system
-* Personalized suggestions using user behavior
+<p align="center">
+  <a href="https://github.com/Jonathan-Jesni/Ludex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight#gh-dark-mode-only"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex#gh-light-mode-only"/>
+  </a>
+</p>
 
 ---
 
@@ -59,8 +63,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=default">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=tokyonight&hide_border=true">
+    <img src="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=default&hide_border=true">
   </picture>
 </p>
 
@@ -79,10 +83,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-jesni-b0184a210/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:jonathanjesni@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
