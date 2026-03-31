@@ -1,17 +1,23 @@
 ```bash
-> initializing profile...
+┌──(jonathan㉿cybernet)-[~/init]
+└─$ boot --profile
 
-[✔] Loading Jonathan Jesni
-[✔] AI & Cybersecurity modules loaded
-[✔] Projects: ACTIVE
+[✔] Identity: Jonathan Jesni
+[✔] Role: AI / ML / Cybersecurity
+[✔] Status: Building real-world systems
 
-> status: BUILDING REAL-WORLD SYSTEMS
+┌──(system㉿core)-[~/modules]
+└─$ load --all
+
+> AI.engine         [ACTIVE]
+> security.layer    [ACTIVE]
+> learning.mode     [ON]
 ```
 
 <h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%26+Cybersecurity+Enthusiast;Machine+Learning+Developer;Building+Real+World+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Cybersecurity;System+Status:+ONLINE;Building+intelligent+systems;Exploring+security+%26+automation" />
 </p>
 
 ---
