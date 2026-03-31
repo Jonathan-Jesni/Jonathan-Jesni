@@ -25,26 +25,41 @@
 <p align="center">
   <code style="color:#39FF14">status: exploring security & automation</code>
 </p>
----
-
-## 🚀 About Me
-
-* 🎓 3rd Year Computer Science Student
-* 🤖 Focused on **AI, Machine Learning & Cybersecurity**
-* 🧠 I build practical, real-world projects (not just tutorials)
-* ⚡ Interested in solving **security + automation problems**
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github" />
+🎓 3rd Year Computer Science Student <br/>
+🤖 Focused on <b>AI, Machine Learning & Cybersecurity</b> <br/>
+🧠 I build practical, real-world projects (not just tutorials) <br/>
+⚡ Interested in solving <b>security + automation problems</b>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,vscode" />
+</p>
+
+<p align="center">
+  <code style="color:#39FF14">AI/ML:</code> YOLOv8 • Computer Vision • Data Processing  
+</p>
+
+<p align="center">
+  <code style="color:#39FF14">Tools:</code> Blender • Cisco Packet Tracer • Git  
+</p>
+
+<p align="center">
+  <code style="color:#39FF14">Core:</code> Cybersecurity • Automation • ML Systems  
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/WebGuardian">
@@ -76,7 +91,7 @@
 
 ---
 
-## 📊 GitHub Activity
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
   <picture>
@@ -87,7 +102,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake-dark.svg">
@@ -96,7 +111,7 @@
 
 ---
 
-## 🔗 Connect With Me
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-jesni-b0184a210/">
@@ -107,16 +122,20 @@
   </a>
 </p>
 
+<br/>
+
 ---
 
-## ⚡ Current Focus
+<h2 align="center">⚡ Current Focus</h2>
 
-* AI-driven security systems
-* Real-world ML applications
-* Building production-ready projects
+<p align="center">
+• AI-driven security systems <br/>
+• Real-world ML applications <br/>
+• Building production-ready projects
+</p>
 
 ---
 
 <p align="center">
-💡 <i>"I build projects that solve real-world problems using AI and cybersecurity."</i>
+  <code style="color:#39FF14">"I build projects that solve real-world problems using AI and cybersecurity."</code>
 </p>
