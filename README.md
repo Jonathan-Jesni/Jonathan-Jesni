@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=200&section=header&text=AI%20%7C%20Security%20%7C%20Code&fontSize=35&fontColor=00F7FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:414345&height=200&section=header&text=Building%20Intelligent%20Systems&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
