@@ -45,7 +45,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Jesni&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Jesni&show_icons=true&theme=tokyonight&v=1)
 
 ---
 
