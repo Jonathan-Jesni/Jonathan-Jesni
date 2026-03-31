@@ -71,13 +71,13 @@
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">
+  <sub style="color:#39FF14">
     Object Detection (YOLOv8 + Blender) • Synthetic training • Scalable CV pipeline
-  </code>
+  </sub>
   <br/>
-  <code style="color:#39FF14">
+  <sub style="color:#39FF14">
     PDF → Word Converter • Form-aware parsing • No OCR • Reliable structure handling
-  </code>
+  </sub>
 </p>
 
 <br/>
@@ -89,9 +89,9 @@
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">
+  <sub style="color:#39FF14">
     ML Game Recommender • Personalized suggestions • Steam-based system
-  </code>
+  </sub>
 </p>
 
 <br/>
@@ -101,21 +101,21 @@
 
   <br/>
 
-  <b>🛡️ Synthetic Data Object Detection</b>  
-  Built using YOLOv8 and Blender to generate synthetic datasets for object detection.  
-  Focused on scalability and training without real-world data dependency.
+  <b>🛡️ Synthetic Data Object Detection</b><br/>
+  Built using YOLOv8 and Blender to generate synthetic datasets for object detection.<br/>
+  Focused on scalable training without real-world data dependency.
 
   <br/><br/>
 
-  <b>📄 PDF Converter</b>  
-  Deterministic PDF to Word conversion without OCR.  
-  Designed to handle structured documents with fallback mechanisms.
+  <b>📄 PDF Converter</b><br/>
+  Deterministic PDF to Word conversion without OCR.<br/>
+  Handles structured documents with fallback mechanisms.
 
   <br/><br/>
 
-  <b>🎮 Ludex</b>  
-  Machine learning-based game recommender tailored for Steam users.  
-  Uses user behavior to generate personalized recommendations.
+  <b>🎮 Ludex</b><br/>
+  Machine learning-based game recommender tailored for Steam.<br/>
+  Uses user behavior for personalized recommendations.
 
 </details>
 
