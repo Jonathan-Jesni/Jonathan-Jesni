@@ -1,12 +1,11 @@
 ```bash
-> whoami
-Jonathan Jesni
+> initializing profile...
 
-> interests
-AI | Machine Learning | Cybersecurity
+[✔] Loading Jonathan Jesni
+[✔] AI & Cybersecurity modules loaded
+[✔] Projects: ACTIVE
 
-> status
-Building real-world systems
+> status: BUILDING REAL-WORLD SYSTEMS
 ```
 
 <h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
