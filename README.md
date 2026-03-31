@@ -14,12 +14,17 @@
 > learning.mode     [ON]
 ```
 
-<h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
+<h1 align="center">
+  &gt; Jonathan Jesni_
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Cybersecurity;System+Status:+ONLINE;Building+intelligent+systems;Exploring+security+%26+automation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Cybersecurity;System+Status:+ONLINE;Building+intelligent+systems;Exploring+security+%26+automation" />
 </p>
 
+<p align="center">
+  <code style="color:#39FF14">status: exploring security & automation</code>
+</p>
 ---
 
 ## 🚀 About Me
