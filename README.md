@@ -70,6 +70,16 @@
   </a>
 </p>
 
+<p align="center">
+  <code style="color:#39FF14">
+    Object Detection (YOLOv8 + Blender) • Synthetic training • Scalable CV pipeline
+  </code>
+  <br/>
+  <code style="color:#39FF14">
+    PDF → Word Converter • Form-aware parsing • No OCR • Reliable structure handling
+  </code>
+</p>
+
 <br/>
 
 <p align="center">
@@ -77,6 +87,37 @@
     <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight" />
   </a>
 </p>
+
+<p align="center">
+  <code style="color:#39FF14">
+    ML Game Recommender • Personalized suggestions • Steam-based system
+  </code>
+</p>
+
+<br/>
+
+<details align="center">
+  <summary>🧠 View Project Details</summary>
+
+  <br/>
+
+  <b>🛡️ Synthetic Data Object Detection</b>  
+  Built using YOLOv8 and Blender to generate synthetic datasets for object detection.  
+  Focused on scalability and training without real-world data dependency.
+
+  <br/><br/>
+
+  <b>📄 PDF Converter</b>  
+  Deterministic PDF to Word conversion without OCR.  
+  Designed to handle structured documents with fallback mechanisms.
+
+  <br/><br/>
+
+  <b>🎮 Ludex</b>  
+  Machine learning-based game recommender tailored for Steam users.  
+  Uses user behavior to generate personalized recommendations.
+
+</details>
 
 ---
 
