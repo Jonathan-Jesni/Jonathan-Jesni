@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi 👋, I'm Jonathan Jesni
 
-<!--
-**Jonathan-Jesni/Jonathan-Jesni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+* 🎓 3rd Year Computer Science Student
+* 🤖 Focused on **AI, Machine Learning & Cybersecurity**
+* 🧠 I build practical, real-world projects (not just tutorials)
+* ⚡ Interested in solving **security + automation problems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ WebGuardian – AI-Powered Phishing Detection
+
+* Detects phishing attacks using machine learning
+* Designed for real-world web security scenarios
+* Focus on intelligent detection + practical deployment
+
+### 👁️ Synthetic Data Object Detection
+
+* Built using **YOLOv8 + Blender**
+* Trained on synthetic datasets for scalability
+* Detects objects like tables, bottles, and balls
+
+### 📄 PDF Converter
+
+* Deterministic **PDF → Word converter (no OCR)**
+* Handles structured forms with smart fallbacks
+
+### 🎮 Ludex – ML Game Recommender
+
+* Machine learning-based recommendation system for Steam
+* Generates personalized suggestions using user behavior
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, Java, C++
+* **AI/ML:** Computer Vision, YOLO, Data Processing
+* **Tools:** Git, Blender, Cisco Packet Tracer
+
+---
+
+## 📈 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Jesni&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/jonathan-jesni-b0184a210/
+* Email: [jonathanjesni@gmail.com](mailto:jonathanjesni@gmail.com)
+
+---
+
+## ⚡ Current Focus
+
+* AI-driven security systems
+* Real-world ML applications
+* Building production-ready projects
+
+---
