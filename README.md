@@ -63,10 +63,10 @@
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/synthetic-data-object-detection">
-    <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection&theme=tokyonight" />
+    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=synthetic-data-object-detection&theme=tokyonight" />
   </a>
   <a href="https://github.com/Jonathan-Jesni/pdf_converter">
-    <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter&theme=tokyonight" />
+    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=pdf_converter&theme=tokyonight" />
   </a>
 </p>
 
@@ -74,7 +74,7 @@
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/Ludex">
-    <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight" />
+    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight" />
   </a>
 </p>
 
