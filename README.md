@@ -70,7 +70,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:-5px;">
   <sub style="color:#39FF14">
     Object Detection (YOLOv8 + Blender) • Synthetic training • Scalable CV pipeline
   </sub>
@@ -88,7 +88,7 @@
   </a>
 </p>
 
-<p align="center">
+<p align="center" style="margin-top:-5px;">
   <sub style="color:#39FF14">
     ML Game Recommender • Personalized suggestions • Steam-based system
   </sub>
