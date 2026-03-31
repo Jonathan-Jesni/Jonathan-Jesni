@@ -65,9 +65,10 @@
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
