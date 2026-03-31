@@ -58,7 +58,10 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=tokyonight">
+    <img src="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=default">
+  </picture>
 </p>
 
 ---
