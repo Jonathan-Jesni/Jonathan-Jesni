@@ -70,28 +70,12 @@
   </a>
 </p>
 
-<p align="center" style="margin-top:-5px;">
-  <sub style="color:#39FF14">
-    Object Detection (YOLOv8 + Blender) • Synthetic training • Scalable CV pipeline
-  </sub>
-  <br/>
-  <sub style="color:#39FF14">
-    PDF → Word Converter • Form-aware parsing • No OCR • Reliable structure handling
-  </sub>
-</p>
-
 <br/>
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/Ludex">
     <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight" />
   </a>
-</p>
-
-<p align="center" style="margin-top:-5px;">
-  <sub style="color:#39FF14">
-    ML Game Recommender • Personalized suggestions • Steam-based system
-  </sub>
 </p>
 
 <br/>
