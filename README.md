@@ -7,6 +7,7 @@ AI | Machine Learning | Cybersecurity
 
 > status
 Building real-world systems
+```
 
 <h1 align="center">Hi 👋, I'm Jonathan Jesni</h1>
 
