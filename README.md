@@ -87,19 +87,27 @@
 
   <b>🛡️ Synthetic Data Object Detection</b><br/>
   Built using YOLOv8 and Blender to generate synthetic datasets for object detection.<br/>
-  Focused on scalable training without real-world data dependency.
-
+  Focused on scalable training without real-world data dependency.<br/>
+  <br/>
+  <b>Highlights:</b> Synthetic data generation • YOLOv8 training • Scalable CV pipeline
+  
   <br/><br/>
-
-  <b>📄 PDF Converter</b><br/>
-  Deterministic PDF to Word conversion without OCR.<br/>
-  Handles structured documents with fallback mechanisms.
-
+  
+  <b>📄 File Converter (AI + OCR)</b><br/>
+  An intelligent document processing system capable of converting files across multiple formats.<br/>
+  Uses OCR to extract and reconstruct text from scanned or unstructured documents.<br/>
+  <br/>
+  <b>Current:</b> Deterministic PDF → Word conversion with form-aware parsing.<br/>
+  <b>In Progress:</b> OCR pipeline for scanned PDFs and images.<br/>
+  <b>Planned:</b> Universal document conversion + compression engine.
+  
   <br/><br/>
-
+  
   <b>🎮 Ludex</b><br/>
   Machine learning-based game recommender tailored for Steam.<br/>
-  Uses user behavior for personalized recommendations.
+  Uses user behavior for personalized recommendations.<br/>
+  <br/>
+  <b>Highlights:</b> Recommendation system • Personalization • User behavior modeling
 
 </details>
 
