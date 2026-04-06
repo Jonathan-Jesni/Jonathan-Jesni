@@ -23,12 +23,6 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://jonathanjesni.com">Portfolio</a> • 
-  💻 <a href="https://github.com/Jonathan-Jesni">GitHub</a> • 
-  🔗 <a href="https://www.linkedin.com/in/jonathan-jesni-b0184a210/">LinkedIn</a>
-</p>
-
-<p align="center">
   <code style="color:#39FF14">status: building AI-powered systems & security tools</code>
 </p>
 
@@ -151,6 +145,10 @@
 ---
 
 <h2 align="center">🔗 Connect With Me</h2>
+
+<p align="center">
+  🌐 <b><a href="https://jonathanjesni.com">jonathanjesni.com</a></b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-jesni-b0184a210/">
