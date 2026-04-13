@@ -132,7 +132,10 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonathan-Jesni&theme=tokyo-night&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=tokyonight&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=default&hide_border=true">
+  </picture>
 </p>
 
 ---
