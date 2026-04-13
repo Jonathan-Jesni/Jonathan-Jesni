@@ -132,10 +132,7 @@
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=tokyonight&hide_border=true">
-    <img src="https://streak-stats.demolab.com/?user=Jonathan-Jesni&theme=default&hide_border=true">
-  </picture>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
