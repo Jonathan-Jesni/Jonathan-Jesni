@@ -163,7 +163,7 @@
 
 <p align="center">
   <a href="https://jonathanjesni.com">
-    <img width="48" src="https://jonathanjesni.com/app/icon.png" alt="Portfolio" />
+    <img width="48" src="https://jonathanjesni.com/icon.png" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/jonathan-jesni-b0184a210/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
