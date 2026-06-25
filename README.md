@@ -37,11 +37,11 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-CS undergrad at IIIT Pune (Class of 2027) — building computer vision, deep learning, and multi-agent LLM systems.<br/>
+CS undergrad at IIIT Pune (Class of 2027), building computer vision, deep learning, and multi-agent LLM systems.<br/>
 <br/>
 <b>96.7% precision</b> on YOLOv8 · <b>~0.85 F1</b> on medical segmentation · <b>5-agent CI/CD pipeline</b> compressing multi-hour PR reviews to ~2 min.<br/>
 <br/>
-I care about the gap most student projects skip — turning a trained model into something that actually<br/>
+I care about the gap most student projects skip, turning a trained model into something that actually<br/>
 serves predictions, behind a real API, in a real pipeline.<br/>
 <br/>
 Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
