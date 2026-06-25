@@ -103,14 +103,14 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
   <br/>
 
   <b>⚡ BandWidth (Autonomous Multi-Agent CI/CD Pipeline)</b><br/>
-  Orchestrated a 5-agent cross-model pipeline (GPT-4o + DeepSeek-V4-Pro) across 6 containerized microservices —
+  Orchestrated a 5-agent cross-model pipeline (GPT-4o + DeepSeek-V4-Pro) across 6 containerized microservices,
   autonomously reviewing, testing, fixing, and documenting GitHub PRs via the Band collaboration platform.<br/>
-  Reduced a multi-hour manual review cycle to a ~2–3 minute autonomous loop with 100% reliable agent handoffs.<br/>
+  Reduced a multi-hour manual review cycle to a ~2-3 minute autonomous loop with 100% reliable agent handoffs.<br/>
   Built a Flask webhook engine intercepting PR events, executing sandboxed pytest validations, and pushing
   autonomous fix commits via the GitHub REST API.<br/>
   <br/>
   <b>Stack:</b> Python · Flask · Docker · Google Cloud · GitHub API · GPT-4o · DeepSeek-V4-Pro · Band AI<br/>
-  <b>Results:</b> ~2–3 min autonomous review cycle · 100% agent handoff reliability · 6-service containerized deployment
+  <b>Results:</b> ~2-3 min autonomous review cycle · 100% agent handoff reliability · 6-service containerized deployment
 
   <br/><br/>
 
@@ -129,7 +129,7 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
   Cross-Entropy + Multi-Class Dice loss and an Ensemble Encoder fusing VGG-19, DenseNet-121, and Xception.<br/>
   Integrated Softmax-based Attention Gates to suppress background noise at class boundaries.<br/>
   <br/>
-  <b>Results:</b> ~0.85 Validation F1 · 3–4% F1 lift over single-backbone baselines · ~25% faster training via AMP
+  <b>Results:</b> ~0.85 Validation F1 · 3-4% F1 lift over single-backbone baselines · ~25% faster training via AMP
 
   <br/><br/>
 
@@ -138,7 +138,7 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
   Steam user-game interaction data, with a custom ETL pipeline and multi-tiered cold-start fallback logic.<br/>
   Applied diversity-aware re-ranking as a post-processing stage to reduce popularity bias.<br/>
   <br/>
-  <b>Results:</b> 12–18% Relevance Lift · 20% Increased Catalog Coverage · 100% User-Base Coverage
+  <b>Results:</b> 12-18% Relevance Lift · 20% Increased Catalog Coverage · 100% User-Base Coverage
 
 </details>
 
@@ -169,7 +169,7 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 <p align="center">
 • Contributing to open source CV (Roboflow)<br/>
 • Exploring RAG pipelines and agent observability<br/>
-• Open to Junior AI/ML Engineer roles and internships — 2026/2027
+• Open to Junior AI/ML Engineer roles and internships, 2026/2027
 </p>
 
 ---
@@ -193,5 +193,5 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 ---
 
 <p align="center">
-  <code style="color:#39FF14">"I build systems that go past the notebook — into deployed pipelines, real APIs, and autonomous agents."</code>
+  <code style="color:#39FF14">"I build systems that go past the notebook. Deployed pipelines, real APIs, autonomous agents."</code>
 </p>
