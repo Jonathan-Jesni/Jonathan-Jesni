@@ -16,11 +16,11 @@
 ```
 
 <h1 align="center">
-  > Jonathan Jesni_
+  &gt; Jonathan Jesni_
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=AI+%7C+ML+%7C+Computer+Vision;Multi-Agent+LLM+Systems;Building+production+AI+pipelines;System+Status%3A+ONLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=39FF14&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=AI+%7C+ML+%7C+Computer+Vision;Multi-Agent+LLM+Systems;Building+production+AI+pipelines;System+Status%3A+ONLINE" alt="AI, ML, Computer Vision, and multi-agent systems" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">status: building production AI pipelines & multi-agent systems</code>
+  <code>status: building production AI pipelines &amp; multi-agent systems</code>
 </p>
 
 ---
@@ -52,19 +52,19 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,docker,gcp" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,docker,gcp" alt="Python, Java, C++, Git, GitHub, Linux, Docker, and Google Cloud" />
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">AI/ML:</code> PyTorch · TensorFlow · YOLOv8 · LLMs/Generative AI · Agentic AI · Computer Vision
+  <code>AI/ML:</code> PyTorch · TensorFlow · YOLOv8 · LLMs/Generative AI · Agentic AI · Computer Vision
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">Tools & MLOps:</code> Docker · FastAPI · REST APIs · Google Cloud · CI/CD · SQL · Git · Blender
+  <code>Tools &amp; MLOps:</code> Docker · FastAPI · REST APIs · Google Cloud · CI/CD · SQL · Git · Blender
 </p>
 
 <p align="center">
-  <code style="color:#39FF14">Frameworks:</code> Flask · OpenCV · NumPy · Pandas · Hugging Face · LangChain
+  <code>Frameworks:</code> Flask · OpenCV · NumPy · Pandas · Hugging Face · LangChain
 </p>
 
 ---
@@ -72,15 +72,15 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  <code style="color:#39FF14">Production systems · CV models · Multi-agent pipelines</code>
+  <code>Production systems · CV models · Multi-agent pipelines</code>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/BandWidth">
-    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=BandWidth&theme=tokyonight" />
+    <img width="400" src="./profile/bandwidth.svg" alt="BandWidth project card" />
   </a>
   <a href="https://github.com/Jonathan-Jesni/SynthRescue">
-    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=SynthRescue&theme=tokyonight" />
+    <img width="400" src="./profile/synthrescue.svg" alt="SynthRescue project card" />
   </a>
 </p>
 
@@ -88,17 +88,17 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 
 <p align="center">
   <a href="https://github.com/Jonathan-Jesni/Modified_DoubleUNet_Implementation">
-    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Modified_DoubleUNet_Implementation&theme=tokyonight" />
+    <img width="400" src="./profile/modified-double-unet.svg" alt="Modified Double U-Net project card" />
   </a>
   <a href="https://github.com/Jonathan-Jesni/Ludex">
-    <img width="400px" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Jonathan-Jesni&repo=Ludex&theme=tokyonight" />
+    <img width="400" src="./profile/ludex.svg" alt="Ludex project card" />
   </a>
 </p>
 
 <br/>
 
 <details align="center">
-  <summary>🧠 View Project Details & Metrics</summary>
+  <summary>🧠 View Project Details &amp; Metrics</summary>
 
   <br/>
 
@@ -117,10 +117,10 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
   <b>🛡️ SynthRescue (Autonomous AI Triage)</b><br/>
   Achieved 96.7% precision on an edge-optimized YOLOv8 model by automating bounding-box annotation through
   a procedural 3D data pipeline (Blender Python API) on ~6,115 synthetic disaster-environment images.<br/>
-  Cut false positives by >56% via negative-sample reinforcement and deployed a low-latency model inference
+  Cut false positives by &gt;56% via negative-sample reinforcement and deployed a low-latency model inference
   endpoint (FastAPI REST, Docker, Google Cloud) integrating Gemini AI for live drone telemetry processing.<br/>
   <br/>
-  <b>Results:</b> 96.7% Precision · >56% False Positive Reduction · ~4.5s End-to-End Report Generation
+  <b>Results:</b> 96.7% Precision · &gt;56% False Positive Reduction · ~4.5s End-to-End Report Generation
 
   <br/><br/>
 
@@ -147,20 +147,19 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=tokyonight&hide_border=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonathan-Jesni&theme=default&hide_border=true">
-  </picture>
+  <img src="./profile/streak.svg" alt="Jonathan Jesni's GitHub activity streak" />
 </p>
 
 ---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Jonathan-Jesni/Jonathan-Jesni/output/github-contribution-grid-snake.svg" alt="Jonathan Jesni's GitHub contribution snake" />
+  </picture>
+</p>
 
 ---
 
@@ -193,5 +192,5 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 ---
 
 <p align="center">
-  <code style="color:#39FF14">"I build systems that go past the notebook. Deployed pipelines, real APIs, autonomous agents."</code>
+  <code>"I build systems that go past the notebook. Deployed pipelines, real APIs, autonomous agents."</code>
 </p>
