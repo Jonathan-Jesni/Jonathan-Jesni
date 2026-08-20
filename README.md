@@ -166,7 +166,7 @@ Open to Junior AI/ML Engineer roles and high-impact internships for 2026/2027.
 <h2 align="center">⚡ Currently</h2>
 
 <p align="center">
-• Contributing to open source CV (Roboflow)<br/>
+• Contributing to [rf-detr](https://github.com/roboflow/rf-detr), Roboflow's open-source real-time detection model<br/>
 • Exploring RAG pipelines and agent observability<br/>
 • Open to Junior AI/ML Engineer roles and internships, 2026/2027
 </p>
